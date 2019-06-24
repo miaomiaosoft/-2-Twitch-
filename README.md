@@ -6,3 +6,6 @@
 
 ### 工具界面：
 ![image](https://raw.githubusercontent.com/miaomiaosoft/WarhammerVermintide2-TwitchVote/master/001.jpg)
+
+### 下载地址：
+https://github.com/miaomiaosoft/WarhammerVermintide2-TwitchVote/releases
